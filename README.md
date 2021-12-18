@@ -17,7 +17,7 @@ Donner l'accès à user pour exécuter les scripts shell : chmod u+x ./fichier.s
 
 Windows :
 
-Se placer dans Powershell
+Se placer dans un terminal gérant ANSI (tel Powershell sur le nouveau Windows Terminal)
 Au lieu de 'port' vous pouvez mettre 8132
 Et pour 'host' si vous souhaitez l'hoster de manière locale mettez simplement : localhost
 
